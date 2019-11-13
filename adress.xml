@@ -1,67 +1,178 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <adresses>
 	<adress>
-		<opis>Engineering</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#jobcat_group=1#t=2</url>>
+		<category>Amazon</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/amazon/</url>>
 	</adress>
 	<adress>
-		<opis>Sales</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#jobcat_group=8#t=2</url>
+		<category>Android</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/android/</url>
 	</adress>
 	<adress>
-		<opis>Finance</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#jobcat_group=2#t=2</url>
+		<category>Apple</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/apple/</url>
 	</adress>
 	<adress>
-		<opis>HR/Admin</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#jobcat_group=3#t=2</url>
+		<category>Artificial Intelligence</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/artificial-intelligence/</url>
 	</adress>
 	<adress>
-		<opis>Marketing </opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#jobcat_group=7#t=2</url>
+		<category>Australia</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/australia/</url>
 	</adress>
 	<adress>
-		<opis>IT</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#jobcat_group=4#t=2</url>
+		<category>Banking</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/banking/</url>
 	</adress>
 	<adress>
-		<opis>Legal</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#jobcat_group=5#t=2</url>
+		<category>Big Data</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/big-data/</url>
 	</adress>
 	<adress>
-		<opis>Management</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#jobcat_group=6#t=2</url>
+		<category>CES</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/ces/</url>
 	</adress>
 	<adress>
-		<opis>Construction</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#industry_group=2#t=2</url>
+		<category>Cheat Sheets</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/cheat-sheets/</url>
 	</adress>
 	<adress>
-		<opis>Banking</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#industry_group=1#t=2</url>
+		<category>Cloud</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/cloud/</url>
 	</adress>
 	<adress>
-		<opis>Retail</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#industry_group=5#t=2</url>
+		<category>Collaboration</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/collaboration/</url>
 	</adress>
 	<adress>
-		<opis>Telecoms/IT</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#industry_group=6#t=2</url>
+		<category>Consumerization</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/consumerization/</url>
 	</adress>
 	<adress>
-		<opis>Oil and Gas</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#industry_group=4#t=2</url>
+		<category>Cover Stories</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/cover-stories/</url>
 	</adress>
 	<adress>
-		<opis>Education</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#industry_group=3#t=2</url>
+		<category>CXO</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/cxo/</url>
 	</adress>
 	<adress>
-		<opis>Transport and Logistics</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#industry_group=7#t=2</url>
+		<category>Data Centers</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/data-centers/</url>
 	</adress>
 	<adress>
-		<opis>Travel and Hospitality</opis>
-		<url>https://www.gulftalent.com/home/canPositions-ViewList-RSS-s.php?from_search=true#industry_group=8#t=2</url>
+		<category>Developer</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/developer/</url>
+	</adress>
+	<adress>
+		<category>E-Commerce</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/e-commerce/</url>
+	</adress>
+	<adress>
+		<category>Election Tech 2016</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/election-tech-2016/</url>
+	</adress>
+	<adress>
+		<category>Enterprise Software</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/enterprise-software/</url>
+	</adress>
+	<adress>
+		<category>EU</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/eu/</url>
+	</adress>
+	<adress>
+		<category>GDPR</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/gdpr/</url>
+	</adress>
+	<adress>
+		<category>Google</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/google/</url>
+	</adress>
+	<adress>
+		<category>Hardware</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/hardware/</url>
+	</adress>
+	<adress>
+		<category>India</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/india/</url>
+	</adress>
+	<adress>
+		<category>Innovation</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/innovation/</url>
+	</adress>
+	<adress>
+		<category>Internet of Things</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/internet-of-things/</url>
+	</adress>
+	<adress>
+		<category>Microsoft</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/microsoft/</url>
+	</adress>
+	<adress>
+		<category>Mobility</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/mobility/</url>
+	</adress>
+	<adress>
+		<category>Networking</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/networking/</url>
+	</adress>
+	<adress>
+		<category>Open Source</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/open-source/</url>
+	</adress>
+	<adress>
+		<category>Project Management</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/project-management/</url>
+	</adress><adress>
+		<category>Samsung</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/samsung/</url>
+	</adress>
+	<adress>
+		<category>Security</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/security/</url>
+	</adress>
+	<adress>
+		<category>Smart Cities</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/smart-cities/</url>
+	</adress>
+	<adress>
+		<category>Smart Office</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/smart-office/</url>
+	</adress>
+	<adress>
+		<category>Smart Person's Guides</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/smart-persons-guides/</url>
+	</adress>
+	<adress>
+		<category>SMBs</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/smbs/</url>
+	</adress>
+	<adress>
+		<category>Social Enterprise</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/social-enterprise/</url>
+	</adress>
+	<adress>
+		<category>Software</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/software/</url>
+	</adress>
+	<adress>
+		<category>Start-Ups</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/start-ups/</url>
+	</adress>
+	<adress>
+		<category>Storage</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/storage/</url>
+	</adress>
+	<adress>
+		<category>Tech and Work</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/tech-and-work/</url>
+	</adress>
+	<adress>
+		<category>Tech Industry</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/tech-industry/</url>
+	</adress>
+	<adress>
+		<category>Virtualization</category>
+		<url>https://www.techrepublic.com/rssfeeds/topic/virtualization/</url>
 	</adress>
 </adresses>
