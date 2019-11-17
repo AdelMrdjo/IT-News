@@ -9,19 +9,19 @@ class GulfTalent{
 	private function clearLink($link){
 		return str_replace("#","&",$link);
 	}
+	private function clearDate($date){
+		return date_format(date_create($date),"d M Y - H:i");
+	}
 	public function showMeJobs($url){
 		$feed = simplexml_load_file($_GET['url']);
 		foreach($feed->channel->item as $news){
-			echo "<div style='border: 1px solid #d3d3d3; margin-bottom:4px;'>";
-			echo "<div style='background-color:#d3d3d3;padding:2px;'>".$news->title.$news->pubDate."</div>";
-			echo "<div style='padding:2px;'>".$news->description."</div>";
-			echo "<div style='padding:2px;'><a href='".$news->link."' target='_blank'>Read more...</a></div>";
+			echo "<div class='news'>";
+			echo "<h4>{$news->title}</h4>";
+			echo "<p class='published'>".self::clearDate($news->pubDate)."</p>";
+			echo "<p class='content'>{$news->description}</p>";
+			echo "<a href='{$news->link}' target='_blank'>Read more</a>";
 			echo "</div>";
 		}
 	}
-}
-if(isset($_GET['url'])){
-	$url = $_GET['url'];
-	GulfTalent::showMeJobs($url);
 }
 ?>

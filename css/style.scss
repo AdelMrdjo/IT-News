@@ -1,0 +1,148 @@
+@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
+$greenColor: #00a800;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+body{
+	margin:0;
+	padding:0;
+	overflow-x:hidden;
+}
+header{
+	width:100%;
+	height:8vh;
+	background:#fff;
+	position:fixed;
+	top:0px;
+	z-index:1;
+	box-shadow:0px 3px 5px 3px #ccc;
+	& img{
+		height:90%;
+		width:200px;
+		float:left;
+		margin-left:10px;
+		margin-top:4px;
+	}
+	& .headerButton{
+		border:1px solid buttonface;
+		border-radius:5px;
+		margin-left:25px;
+		width:40px;
+		height:40px;
+		float:left;
+		position:relative;
+		top:50%;
+		transform:translateY(-50%);
+		display:grid;
+		justify-content:center;
+		align-items:center;
+		& i{
+			font-size:24px;
+		}
+	}
+	& .headerButton:hover{
+		background:rgba(0,0,0,.1);
+		cursor:pointer;
+		outline:none;
+	}
+	& p{
+		float:left;
+		margin-left:10px;
+		font-size:18px;
+		margin:0px 0px 0px 10px;
+		position:relative;
+		top:50%;
+		transform:translateY(-50%);
+		& span{
+			color:$greenColor;
+		}
+	}
+}
+.jobsMenu{
+	background:green;
+	width:200px;
+	z-index:1;
+	height:92vh;
+	overflow-y:scroll;
+	position:fixed;
+	margin-top:8vh;
+	& button{
+		font-family: 'Open Sans', sans-serif;
+		display:block;
+		width:100%;
+		height:40px;
+		border:none;
+		outline:none;
+		font-weight:bold;
+	}
+	& button:hover{
+		background:$greenColor;
+	}
+}
+.jobs{
+	font-family: 'Open Sans', sans-serif;
+	min-height:92vh;
+	padding-top:8vh;
+	& .news{
+		width:85%;
+		margin:0 auto;
+		margin-bottom:80px;
+		border-bottom:1px solid $greenColor;
+		& h4{
+			color:$greenColor;
+		}
+		& p.published{
+			color:#877f7f;
+		}
+		& p.content{
+			margin-bottom:40px;
+		}
+		& a{
+			background:$greenColor;
+			color:#fff;
+			position:relative;
+			top:-10px;
+			text-decoration:none;
+			padding:10px;
+		}
+		& a:hover{
+			background:#007000;
+		}
+	}
+}
+footer{
+	font-family: 'Open Sans', sans-serif;
+	width:100vw;
+	height:400px;
+	text-align:center;
+	background:url(../img/footerImg.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	padding-top:20px;
+	& h2{
+		font-size:28px;
+		color:#fff;
+		text-shadow:4px 4px 5px #000;
+	}
+	& a{
+		text-decoration:none;
+		color:$greenColor;
+		text-shadow:4px 4px 5px #000;
+		font-weight:bold;
+		font-size:24px;
+	}
+	& i{
+		font-size:28px;
+		color:#ff9000;
+	}
+}
+/*===============================================SCROLL_BAR=================================*/
+::-webkit-scrollbar {
+width: 4px;
+}
+::-webkit-scrollbar-track {
+border-radius: 0px;
+background:buttonface;
+}
+::-webkit-scrollbar-thumb {
+background: #474747;
+border-radius: 0px;
+}
